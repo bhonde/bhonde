@@ -2,7 +2,9 @@
 <p align="right"> <i><sup>Header image by <a href="https://pixeljeff.tumblr.com">PixelJeff</a></small></i></sup>
 </p>
 
-<h1 align="center"> Hello, Mayur here! 👋🏾 </h1>
+<h1 align="center"> Hello, welcome to my Github page! 👋🏾 </h1>
+
+### My name is Mayur
 
 🔭 I’m currently working on Personal Projects<br>🌱 I’m currently learning Flutter<br><br>
 
