@@ -1,6 +1,6 @@
 ![Banner](https://64.media.tumblr.com/4da998fa345d2c148fc92dedff9a8b65/83096ff748c57324-49/s2048x3072/fc883f870d53e6333aebd2e940f504056a1c418e.gifv)
 
-[![](https://visitcount.itsvg.in/api?id=bhonde&icon=5&color=11)](https://visitcount.itsvg.in)  &nbsp; <sup> _Header image by PixelJeff (https://pixeljeff.tumblr.com)_ </sup>
+[![](https://visitcount.itsvg.in/api?id=bhonde&icon=5&color=11)](https://visitcount.itsvg.in)  &nbsp; <sup align="right"> _Header image by PixelJeff (https://pixeljeff.tumblr.com)_ </sup>
 
 ---
 
