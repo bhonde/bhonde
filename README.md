@@ -1,8 +1,6 @@
 ![Banner](https://64.media.tumblr.com/4da998fa345d2c148fc92dedff9a8b65/83096ff748c57324-49/s2048x3072/fc883f870d53e6333aebd2e940f504056a1c418e.gifv)
-
-<sup> _Header image by <a href="https://pixeljeff.tumblr.com">PixelJeff</a>_ </sup>
-
----
+<p align="right"> <i><sup>Header image by <a href="https://pixeljeff.tumblr.com">PixelJeff</a></small></i></sup>
+</p>
 
 <h1 align="center"> Hello, Mayur here! 👋🏾 </h1>
 
