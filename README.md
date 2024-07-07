@@ -2,7 +2,7 @@
 
 ![Banner](https://64.media.tumblr.com/4da998fa345d2c148fc92dedff9a8b65/83096ff748c57324-49/s2048x3072/fc883f870d53e6333aebd2e940f504056a1c418e.gifv)
 
-<div align="center"> [![](https://visitcount.itsvg.in/api?id=bhonde&icon=5&color=11)](https://visitcount.itsvg.in) </div>
+[![](https://visitcount.itsvg.in/api?id=bhonde&icon=5&color=11)](https://visitcount.itsvg.in)
 
 ---
 
@@ -20,10 +20,9 @@
 
 ## GitHub Stats:
 
-<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=bhonde&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhonde&theme=catppuccin_mocha&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhonde&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhonde&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🔝 Top Contributed Repo
 
