@@ -1,6 +1,7 @@
-## ![Banner](https://64.media.tumblr.com/4da998fa345d2c148fc92dedff9a8b65/83096ff748c57324-49/s2048x3072/fc883f870d53e6333aebd2e940f504056a1c418e.gifv)
+<!-- Header image by PixelJeff (https://pixeljeff.tumblr.com) -->
 
-    <!-- Header image by PixelJeff (https://pixeljeff.tumblr.com) -->
+![Banner](https://64.media.tumblr.com/4da998fa345d2c148fc92dedff9a8b65/83096ff748c57324-49/s2048x3072/fc883f870d53e6333aebd2e940f504056a1c418e.gifv)
+
 ---
 
 <h1 align="center"> Hello, Mayur here! 👋🏾 </h1>
