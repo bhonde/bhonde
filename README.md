@@ -1,16 +1,15 @@
+<h1 align="center"> Hello, welcome to my Github page! 👋🏾 </h1>
+
 ![Banner](https://64.media.tumblr.com/4da998fa345d2c148fc92dedff9a8b65/83096ff748c57324-49/s2048x3072/fc883f870d53e6333aebd2e940f504056a1c418e.gifv)
 <p align="right"> <i><sup>Header image by <a href="https://pixeljeff.tumblr.com">PixelJeff</a></small></i></sup>
 </p>
 
-<h1 align="center"> Hello, welcome to my Github page! 👋🏾 </h1>
+
 
 ### My name is Mayur
 
 🔭 I’m currently working on Personal Projects<br>🌱 I’m currently learning Flutter<br><br>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bhonde/count.svg?"  />
-</div>
 
 ###
 
@@ -93,6 +92,12 @@
   <img src="https://streak-stats.demolab.com?user=bhonde&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=bhonde&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=Mayur's%20Github%20Stats" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhonde&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bhonde/count.svg?"  />
 </div>
 
 ###
