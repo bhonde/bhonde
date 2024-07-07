@@ -1,6 +1,6 @@
 ![Banner](https://64.media.tumblr.com/4da998fa345d2c148fc92dedff9a8b65/83096ff748c57324-49/s2048x3072/fc883f870d53e6333aebd2e940f504056a1c418e.gifv)
 
-[![](https://visitcount.itsvg.in/api?id=bhonde&icon=5&color=11)](https://visitcount.itsvg.in)  &nbsp; <sup> _Header image by <a href="https://pixeljeff.tumblr.com">PixelJeff</a>_ </sup>
+<sup> _Header image by <a href="https://pixeljeff.tumblr.com">PixelJeff</a>_ </sup>
 
 ---
 
@@ -21,18 +21,16 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+<a href="#" target="_blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<a href="https://www.instagram.com/mb.wtf" target="_blank">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<a href="https://dev.to/mayur" target="_blank">  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+<a href="https://x.com/_bhonde" target="_blank">  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 
 ###
 
 <br clear="both">
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Tech stack I use</h3>
 
 ###
 
@@ -80,7 +78,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/bhonde/bhonde/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/bhonde/bhonde/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
