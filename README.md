@@ -11,15 +11,9 @@
 ###
 
 <div align="left">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/mayur" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
-  <a href="https://codepen.io/bhonde" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-  </a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://dev.to/mayur" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
+  <a href="https://codepen.io/bhonde" target="_blank"><img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  /></a>
 </div>
 
 
@@ -37,14 +31,8 @@
 
 ###
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/bhonde/bhonde/output/snake.svg" alt="Snake animation" />
 
----
-
-<h3 align="center">Tech stack</h3>
-
-###
+<h3 align="left">I am familiar with</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
@@ -87,6 +75,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
 </div>
+
+###
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/bhonde/bhonde/output/snake.svg" alt="Snake animation" />
+
+---
 
 <br clear="both">
 
