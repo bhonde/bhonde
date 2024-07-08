@@ -1,7 +1,8 @@
 <h1 align="center"> Hello, welcome to my Github page! 👋🏾 </h1>
 
-![Banner](https://64.media.tumblr.com/4da998fa345d2c148fc92dedff9a8b65/83096ff748c57324-49/s2048x3072/fc883f870d53e6333aebd2e940f504056a1c418e.gifv)
-<p align="right"> <i><sup>Header image by <a href="https://pixeljeff.tumblr.com">PixelJeff</a></small></i></sup>
+![Banner](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s2048x3072/ae238518f2d1bf3c0b68c97a94ff9ba5f7a8b59c.gifv)
+
+<p align="right"> <i><sup>Artwork by <a href="https://pixeljeff.tumblr.com">PixelJeff</a></small></i></sup>
 </p>
 
 
@@ -20,16 +21,16 @@
 ###
 
 <div align="center">
-<a href="#" target="_blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-<a href="https://www.instagram.com/mb.wtf" target="_blank">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-<a href="https://dev.to/mayur" target="_blank">  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-<a href="https://x.com/_bhonde" target="_blank">  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+<a href="#" target="_blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+<a href="https://www.instagram.com/mb.wtf" target="_blank">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
+<a href="https://dev.to/mayur" target="_blank">  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  /> </a>
+<a href="https://x.com/_bhonde" target="_blank">  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /> </a>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">Tech stack I use</h3>
+<h3 align="center">Tech stack</h3>
 
 ###
 
