@@ -1,5 +1,12 @@
 <h1 align="center"> Hello, there! 👋🏾 </h1>
 
+
+![Banner](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s1280x1920/95aba83fc114f2cac774427ffe15541c65c552e3.gifv)
+
+<p align="right"> <i><sup>Artwork by <a href="https://pixeljeff.tumblr.com">PixelJeff</a></small></i></sup>
+</p>
+  
+
 <img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
 
@@ -11,7 +18,7 @@
 ###
 
 <div align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+ 
   <a href="https://dev.to/mayur" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
   <a href="https://codepen.io/bhonde" target="_blank"><img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  /></a>
 </div>
@@ -79,21 +86,13 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/bhonde/bhonde/output/snake.svg" alt="Snake animation" />
-
----
-
-<br clear="both">
 
 <h3 align="center">Github Stats</h3>
 
-<!-- Visitors Count-->
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bhonde/count.svg?"  />
-</div>
+<br clear="both">
 
 <br clear="both">
+<img src="https://raw.githubusercontent.com/bhonde/bhonde/output/snake.svg" alt="Snake animation" />
 
 <!-- Github Stats: Streaks -->
  <div align="center">
@@ -101,7 +100,7 @@
 </div>
    <!-- Github Stats: Stats -->   
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhonde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhonde&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
     <!-- Github Stats: Languages -->
      <div align="center">
@@ -112,8 +111,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhonde&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Controbutions" height="310" alt="activity-graph graph"  />
 </div>
 
----
+
+<br clear="both">
+
 <h3 align="center">Socials</h3>
+
+<br clear="both">
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -121,10 +124,14 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
----
+<br clear="both">
 
-![Banner](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s1280x1920/95aba83fc114f2cac774427ffe15541c65c552e3.gifv)
+<!-- Visitors Count-->
 
-<p align="right"> <i><sup>Artwork by <a href="https://pixeljeff.tumblr.com">PixelJeff</a></small></i></sup>
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bhonde/count.svg?"  />
+</div>
+
+
+<br clear="both">
 
