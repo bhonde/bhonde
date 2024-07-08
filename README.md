@@ -1,10 +1,9 @@
-<h1 align="center"> Hello, welcome to my Github page! 👋🏾 </h1>
+<h1 align="center"> Hello, there! 👋🏾 </h1>
 
-![Banner](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s2048x3072/ae238518f2d1bf3c0b68c97a94ff9ba5f7a8b59c.gifv)
+![Banner](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s1280x1920/95aba83fc114f2cac774427ffe15541c65c552e3.gifv)
 
 <p align="right"> <i><sup>Artwork by <a href="https://pixeljeff.tumblr.com">PixelJeff</a></small></i></sup>
 </p>
-
 
 
 ### My name is Mayur
@@ -78,7 +77,7 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/bhonde/bhonde/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/bhonde/bhonde/output/snake.svg" alt="Snake animation" />
 
 ###
 
