@@ -109,7 +109,7 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=040404&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=040404&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=040404&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+ <a href="https://www.freecodecamp.org/bhonde"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=040404&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
 </div>
 
 <br clear="both">
