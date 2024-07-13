@@ -16,8 +16,9 @@
 
 <div align="left">
  
-  <a href="https://dev.to/mayur" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
   <a href="https://codepen.io/bhonde" target="_blank"><img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  /></a>
+  <a href="https://www.codewars.com/users/bhonde" target="_blank"><img src="https://img.shields.io/static/v1?message=codewars&logo=codewars&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codewars"  /></a>
+  <a href="https://leetcode.com/u/bhonde" target="_blank"><img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode"  /></a>  
 </div>
 
 
