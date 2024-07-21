@@ -107,9 +107,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=040404&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=040404&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
- <a href="https://www.freecodecamp.org/bhonde" target="_blank"><img src="https://img.shields.io/static/v1?message=FreeCodeCamp&logo=freecodecamp&label=&color=040404&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="FreeCodeCamp"  /></a>
+ <a href="https://www.instagram.com/mb.wtf" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=040404&logoColor=6cd064&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  /></a>
+  <a href="https://www.x.com/_bhonde" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=040404&logoColor=6cd064&labelColor=&style=for-the-badge" height="28" alt="twitter logo"  /></a>
+ <a href="https://www.freecodecamp.org/bhonde" target="_blank"><img src="https://img.shields.io/static/v1?message=FreeCodeCamp&logo=freecodecamp&label=&color=040404&logoColor=6cd064&labelColor=&style=for-the-badge" height="28" alt="FreeCodeCamp"  /></a>
 </div>
 
 <br clear="both">
