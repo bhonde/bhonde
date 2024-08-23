@@ -25,6 +25,8 @@
 ###
 <br clear="both">
 
+<br clear="both">
+<img src="https://raw.githubusercontent.com/bhonde/bhonde/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -86,6 +88,12 @@
 <h3 align="center">Github Stats</h3>
 
 <br clear="both">
+
+<!-- Github Stats: Streaks -->
+ <div align="center">
+  <img src="https://streak-stats.demolab.com?user=bhonde&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
 <!-- Github Stats: Contributions -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhonde&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Activity" height="310" alt="activity-graph graph"  />
@@ -94,14 +102,6 @@
   <!-- Github Stats: Stats -->   
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhonde&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=0" height="200" alt="stats graph"  />
-</div>
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/bhonde/bhonde/output/snake.svg" alt="Snake animation" />
-
-<!-- Github Stats: Streaks -->
- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bhonde&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 <br clear="both">
