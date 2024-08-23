@@ -99,11 +99,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhonde&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Activity" height="310" alt="activity-graph graph"  />
 </div>
 
-  <!-- Github Stats: Stats -->   
+  <!-- Github Stats: Stats 
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhonde&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=0" height="200" alt="stats graph"  />
 </div>
-
+-->   
 <br clear="both">
 
 <h3 align="center">Socials</h3>
