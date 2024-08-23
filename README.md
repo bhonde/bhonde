@@ -76,6 +76,12 @@
 ###
 
 <br clear="both">
+<h3 align="center">Leetcode</h3>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/bhonde?theme=dark&font=Inter&ext=heatmap" />  
+</p>
+
 
 <h3 align="center">Github Stats</h3>
 
@@ -97,8 +103,6 @@
  <div align="center">
   <img src="https://streak-stats.demolab.com?user=bhonde&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
-
-
 
 <br clear="both">
 
