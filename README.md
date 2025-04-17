@@ -9,7 +9,7 @@
 
 # My name is Mayur
 
-🔭 I’m currently working on Personal Projects<br>🌱 I’m currently learning Flutter<br><br>
+<!-- 🔭 I’m currently working on Personal Projects<br>🌱 I’m currently learning Flutter<br><br>  -->
 
 
 ###
